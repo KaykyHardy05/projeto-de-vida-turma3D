@@ -1,5 +1,5 @@
 const botoes = document.querySelectorAll(".botao");
-const abastextos = document.querySelectorAll(".abas-conteudo")
+const conteudo = document.querySelectorAll(".abas-conteudo")
 
 //Percorrer (iterar) uma lista de elementos
 for(let i = 0; i < botoes.length; i++){
